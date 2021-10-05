@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = t.lemerrer@gmail.com
+	name = tancrede le merrer
